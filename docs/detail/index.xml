@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>详细使用教程 on 剪刀兔</title>
-    <link>https://open.sutu.tech/docs/detail/</link>
+    <link>https://bunny.editool.cn/docs/detail/</link>
     <description>Recent content in 详细使用教程 on 剪刀兔</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, 素图科技 版权所有</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://open.sutu.tech/docs/detail/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://bunny.editool.cn/docs/detail/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>处理和编辑页面</title>
-        <link>https://open.sutu.tech/docs/detail/sec1/</link>
+        <link>https://bunny.editool.cn/docs/detail/sec1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://open.sutu.tech/docs/detail/sec1/</guid>
+        <guid>https://bunny.editool.cn/docs/detail/sec1/</guid>
         <description></description>
       </item>
       
       <item>
         <title>导入视频与处理</title>
-        <link>https://open.sutu.tech/docs/detail/sec2/</link>
+        <link>https://bunny.editool.cn/docs/detail/sec2/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://open.sutu.tech/docs/detail/sec2/</guid>
+        <guid>https://bunny.editool.cn/docs/detail/sec2/</guid>
         <description></description>
       </item>
       
       <item>
         <title>图文编辑</title>
-        <link>https://open.sutu.tech/docs/detail/sec3/</link>
+        <link>https://bunny.editool.cn/docs/detail/sec3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://open.sutu.tech/docs/detail/sec3/</guid>
+        <guid>https://bunny.editool.cn/docs/detail/sec3/</guid>
         <description></description>
       </item>
       

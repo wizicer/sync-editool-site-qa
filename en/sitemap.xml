@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://open.sutu.tech/en/</loc>
+    <loc>https://bunny.editool.cn/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://open.sutu.tech/"
+                href="https://bunny.editool.cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://open.sutu.tech/en/"
+                href="https://bunny.editool.cn/en/"
                 />
   </url>
   

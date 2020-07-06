@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>教程 on 剪刀兔</title>
-    <link>https://open.sutu.tech/docs/</link>
+    <link>https://bunny.editool.cn/docs/</link>
     <description>Recent content in 教程 on 剪刀兔</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, 素图科技 版权所有</copyright>
     <lastBuildDate>Sat, 11 Jan 2020 14:09:21 +0900</lastBuildDate>
     
-        <atom:link href="https://open.sutu.tech/docs/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://bunny.editool.cn/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>下载</title>
-        <link>https://open.sutu.tech/docs/download/</link>
+        <link>https://bunny.editool.cn/docs/download/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://open.sutu.tech/docs/download/</guid>
+        <guid>https://bunny.editool.cn/docs/download/</guid>
         <description>剪刀兔客户端下载 点击下方按钮自动下载剪刀兔客户端，安装完成后即可启动使用，目前只支持Windows系统下载及使用。
  下载Windows客户端
  目前只支持Windows系统下载，后期会开放Mac系统，敬请关注  安装启动教程 &amp;raquo;
@@ -28,10 +28,10 @@
       
       <item>
         <title>免费试用</title>
-        <link>https://open.sutu.tech/docs/trial/</link>
+        <link>https://bunny.editool.cn/docs/trial/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://open.sutu.tech/docs/trial/</guid>
+        <guid>https://bunny.editool.cn/docs/trial/</guid>
         <description>获取方法 本产品无免费使用版本，可为有需求的用户提供24小时免费试用服务。
 申请免费试用需向产品客服提供手机号，且同一手机号只能获得一次免费试用机会。
 关注剪刀兔官方公众号，后台发送“免费试用”联系产品客服，即可获得剪刀兔24小时免费试用机会。
@@ -41,10 +41,10 @@
       
       <item>
         <title>购买会员</title>
-        <link>https://open.sutu.tech/docs/vip/</link>
+        <link>https://bunny.editool.cn/docs/vip/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://open.sutu.tech/docs/vip/</guid>
+        <guid>https://bunny.editool.cn/docs/vip/</guid>
         <description>会员 剪刀兔是一款可将视频一键转换为图片、图文、动图的媒体编辑器，通过自主研发的人工智能视频流图像识别算法，对连续视频流进行场景识别，从而实现媒体形式的自动转换。
 剪刀兔会员根据使用对象分为个人会员和企业会员。 同时为广大用户提供24小时免费试用机会，无免费试用版本。
 获取免费试用机会&amp;raquo;
@@ -53,19 +53,19 @@
       
       <item>
         <title>安装启动教程</title>
-        <link>https://open.sutu.tech/docs/tutorial/</link>
+        <link>https://bunny.editool.cn/docs/tutorial/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://open.sutu.tech/docs/tutorial/</guid>
+        <guid>https://bunny.editool.cn/docs/tutorial/</guid>
         <description></description>
       </item>
       
       <item>
         <title>详细使用教程</title>
-        <link>https://open.sutu.tech/docs/detail/</link>
+        <link>https://bunny.editool.cn/docs/detail/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://open.sutu.tech/docs/detail/</guid>
+        <guid>https://bunny.editool.cn/docs/detail/</guid>
         <description></description>
       </item>
       
