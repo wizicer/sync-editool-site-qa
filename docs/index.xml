@@ -27,25 +27,13 @@
       </item>
       
       <item>
-        <title>关于</title>
-        <link>https://bunny.editool.cn/docs/about/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://bunny.editool.cn/docs/about/</guid>
-        <description>素图科技 “剪刀兔”由上海素图科技有限公司团队开发上线。
-上海素图科技有限公司位于同济大学科技园，属于上海市大学生科技创业基金会同济分基金支持企业。创始人团队有来自同济大学、上海交大、南开大学等校的硕博士生，依托高校科研实力，主要进行区块链、人工智能等领域的底层平台和应用案例开发。
-地址：上海市杨浦区中山北二路1121号同济科技大厦二楼。
-了解更多请关注素图科技官方网站：https://www.sutu.tech</description>
-      </item>
-      
-      <item>
         <title>购买会员</title>
         <link>https://bunny.editool.cn/docs/vip/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://bunny.editool.cn/docs/vip/</guid>
         <description>会员 剪刀兔是一款可将视频一键转换为图片、图文、动图的媒体编辑器，通过自主研发的人工智能视频流图像识别算法，对连续视频流进行场景识别，从而实现媒体形式的自动转换。
-剪刀兔会员根据使用对象分为个人会员和企业会员。 同时为广大用户提供24小时免费试用机会，无免费试用版本。</description>
+剪刀兔会员按照使用周期，分为一分钱试用会员、月付会员和年付会员，在使用和编辑功能上没有任何差异。</description>
       </item>
       
       <item>
@@ -64,6 +52,18 @@
         
         <guid>https://bunny.editool.cn/docs/detail/</guid>
         <description></description>
+      </item>
+      
+      <item>
+        <title>关于</title>
+        <link>https://bunny.editool.cn/docs/about/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://bunny.editool.cn/docs/about/</guid>
+        <description>素图科技 “剪刀兔”由上海素图科技有限公司团队开发上线。
+上海素图科技有限公司位于同济大学科技园，属于上海市大学生科技创业基金会同济分基金支持企业。创始人团队有来自同济大学、上海交大、南开大学等校的硕博士生，依托高校科研实力，主要进行区块链、人工智能等领域的底层平台和应用案例开发。
+地址：上海市杨浦区中山北二路1121号同济科技大厦二楼。
+了解更多请关注素图科技官方网站：https://www.sutu.tech</description>
       </item>
       
     
