@@ -14,30 +14,6 @@
     
     
       
-      <item>
-        <title>安装</title>
-        <link>https://bunny.editool.cn/docs/tutorial/install/</link>
-        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
-        
-        <guid>https://bunny.editool.cn/docs/tutorial/install/</guid>
-        <description>本系统暂无用户登录界面。用户打开浏览器，输入系统网址，即可进入系统。
-首次打开时，会提示“无法连接本地客户端”。
-点击蓝色字体“下载并运行EDITOOL”进行软件客户端下载。
-客户端安装完成状态如下：
-任务栏会出现剪刀兔客户端图标：</description>
-      </item>
-      
-      <item>
-        <title>启动</title>
-        <link>https://bunny.editool.cn/docs/tutorial/boot/</link>
-        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
-        
-        <guid>https://bunny.editool.cn/docs/tutorial/boot/</guid>
-        <description>1. 在浏览器直接打开 显示如下界面，点击蓝色字体“点击此处”启动客户端。
-2. 在任务栏客户端处打开 鼠标右键点击任务栏剪刀兔图标，点击主页即可启动客户端。
-进入剪刀兔处理页，即可添加视频文件。</description>
-      </item>
-      
     
   </channel>
 </rss>
