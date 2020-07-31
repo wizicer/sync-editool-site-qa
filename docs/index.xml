@@ -38,10 +38,10 @@
       
       <item>
         <title>安装流程</title>
-        <link>https://bunny.editool.cn/docs/tutorial/</link>
+        <link>https://bunny.editool.cn/docs/install/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/tutorial/</guid>
+        <guid>https://bunny.editool.cn/docs/install/</guid>
         <description>安装流程  进入剪刀兔官网 www.editool.cn ，点击左上导航栏的【下载】，进入下载页面。   Windows系统用户点击【下载剪刀兔Windows客户端】，下载剪刀兔客户端。   下载完成后，直接【打开】，或者【在文件夹中显示】后，双击应用程序。  
 
 根据步骤提示进行剪刀兔安装。  
@@ -123,6 +123,15 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://bunny.editool.cn/docs/activation/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://bunny.editool.cn/docs/install/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://bunny.editool.cn/docs/install/</guid>
         <description></description>
       </item>
       
