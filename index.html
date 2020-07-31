@@ -464,7 +464,7 @@
     
     var enableSearchHighlight = JSON.parse("null");
     
-    var enableSearch = JSON.parse("true");
+    var enableSearch = JSON.parse("false");
 
     var fuse = null;
 
@@ -976,7 +976,7 @@
 
 
 <meta property="og:site_name" content="剪刀兔">
-<meta property="og:title" content="EDITOOL">
+<meta property="og:title" content="剪刀兔">
 <meta property="og:url" content="https://bunny.editool.cn/">
 <meta property="og:type" content="website">
 
@@ -1008,7 +1008,7 @@
     "@context": "https://schema.org",
     "@type": "WebPage",
     "url" : "https://bunny.editool.cn/",
-    "name": "EDITOOL",
+    "name": "剪刀兔",
     "description": "剪刀兔 产品官网",
     "mainEntityOfPage": {
       "@type": "WebPage",
@@ -1167,14 +1167,6 @@
   
   
   <li class="navbar__menu--mobile-item ">
-    <a href="https://desk.editool.cn" class="">编辑面板</a>
-  </li>
-
-  
-  
-  
-  
-  <li class="navbar__menu--mobile-item ">
     <a href="/docs/download/" class="">下载</a>
   </li>
 
@@ -1199,14 +1191,9 @@
 </span>
           <ul id="navMenu" class="navbar__menu">
             
-
-  
-  
-  
-  
-  <li class="navbar__menu--item ">
-    <a href="https://desk.editool.cn" data-bgimg="true">编辑面板</a>
-  </li>
+<li class="navbar__menu--item">
+  <a href="https://desk.editool.cn/" target="_blank">编辑面版</a>
+</li>
 
   
   
@@ -1237,38 +1224,9 @@
         <div class="grow"></div>
         <div id="siteSearch" class="hide">
           
-
-<div class="search" data-bgimg="true">
-  <span class="icon">
-    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M15.5 14h-.79l-.28-.27c1.2-1.4 1.82-3.31 1.48-5.34-.47-2.78-2.79-5-5.59-5.34-4.23-.52-7.79 3.04-7.27 7.27.34 2.8 2.56 5.12 5.34 5.59 2.03.34 3.94-.28 5.34-1.48l.27.28v.79l4.25 4.25c.41.41 1.08.41 1.49 0 .41-.41.41-1.08 0-1.49L15.5 14zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
-  </span>
-  <input id="search" aria-label="Site Search" class="input" type="text" autocomplete="off" placeholder="Search">
-  <div id="search-results" class="dropdown">
-    <div id="search-menu" class="dropdown-menu">
-    </div>
-  </div>
-</div>
-
-
         </div>
         <div id="mobileSearch" class="hide">
           
-<div id="mobileSearchBtn" class="mobile-search__btn">
-  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M15.5 14h-.79l-.28-.27c1.2-1.4 1.82-3.31 1.48-5.34-.47-2.78-2.79-5-5.59-5.34-4.23-.52-7.79 3.04-7.27 7.27.34 2.8 2.56 5.12 5.34 5.59 2.03.34 3.94-.28 5.34-1.48l.27.28v.79l4.25 4.25c.41.41 1.08.41 1.49 0 .41-.41.41-1.08 0-1.49L15.5 14zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
-</div>
-
-<div id="search-mobile-container" class="mobile-search hide">
-  <div class="mobile-search__top">
-    <input id="search-mobile" type="text" aria-label="Mobile Search" placeholder="Search..." class="mobile-search__top--input"/>
-    <div id="search-mobile-close" class="mobile-search__top--icon">
-      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path opacity=".87" fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm3.59-13L12 10.59 8.41 7 7 8.41 10.59 12 7 15.59 8.41 17 12 13.41 15.59 17 17 15.59 13.41 12 17 8.41z"/></svg>
-    </div>
-  </div>
-  <div id="search-mobile-results" class="mobile-search__body">
-    
-  </div>
-</div>
-
         </div>
         <div class="hide"><div class="navbar__icons">
   
@@ -1464,7 +1422,7 @@ width="22" height="22"
   
   
   <li class="navbar__menu--item ">
-    <a href="/docs/vip/cent/" data-bgimg="true">一分钱试用</a>
+    <a href="/docs/vip/cent/" data-bgimg="true">0元试用</a>
   </li>
 
         </ul>
@@ -1559,16 +1517,20 @@ width="22" height="22"
       <div>
            <h1 class="landing-text"> 视频变图文,So easy !</h1>
        </div>
-       <div class="intro-text"><div style="background-color:#f9c40d;">剪刀兔是一款可将视频一键转换为图片、图文、动图的媒体编辑器，通过自主研发的人工智能视频流图像识别算法，对连续视频流进行场景识别，从而实现媒体形式的自动转换。</div></div>
+       <div class="intro-text">
+          <div style="background-color:#f9c40d;">
+            剪刀兔：一款可以实现视频自动转换成图/文/GIF的全媒体编辑器
+          </div>
+        </div>
        <br/>
        <div style="padding-top: 35px;">
-         <a href="https://desk.editool.cn/"><button class="homeBtn">
+         <a href="https://desk.editool.cn/" target="_blank"><button class="homeBtn">
            开始使用
          </button>
        </a>
        </div>
        <div class="landing-link">
-         <a href="/docs/download/">下载客户端</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/docs/vip/cent/">一分钱试用</a>
+         <a href="/docs/download/">下载客户端</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/docs/vip/cent/">0元试用</a>
        </div>
    </section>
 
@@ -1881,7 +1843,7 @@ width="22" height="22"
         
         
           <div class="section__normal--content" style="color: #fff;">
-            <span style="color:#3091bb;font-family:SourceHanSerifSC-Regular;">身为媒体工作者，每天都需要接收和传播大量信息<br/><br/> 好的运营工具，不仅可以减少大量的重复劳动时间 <br/> 更能让人，将心思专注于优质的内容创作<br/><br/> <b>通过剪刀兔，我们可以：</b><br/><br/> √ 把视频自动转成【图片+文字+动图】<br/> √ 每个段落都由人工智能算法精确分割<br/> √ 静态/动态图片一键转换<br/> √ 文字、图片编辑在一个界面完成<br/> √ 编辑结果可直接复制粘贴至各平台<br/><br/> <b>我们不需要：</b><br/><br/> </span> <span style="color:#868585;font-family:SourceHanSerifSC-Regular;"> × 单张重复的截图操作<br/> × 人工设定GIF起止时间<br/> × 频繁切换图文编辑软件<br/> × 在“另存为”和“上传”之间反复横跳<br/><br/> </span> <span style="color:#3091bb;font-family:SourceHanSerifSC-Regular;"> <b>提高效率，抢占流量，获得先机，从剪刀兔开始！</b><br/><br/> <br/> </span> <a href="https://desk.editool.cn/"> <button class="homeBtn"> 立即体验 </button> </a>
+            <span style="color:#3091bb;font-family:SourceHanSerifSC-Regular;">身为媒体工作者，每天都需要接收和传播大量信息<br/><br/> 好的运营工具，不仅可以减少大量的重复劳动时间 <br/> 更能让人，将心思专注于优质的内容创作<br/><br/> <b>通过剪刀兔，我们可以：</b><br/><br/> √ 把视频自动转成【图片+文字+动图】<br/> √ 每个段落都由人工智能算法精确分割<br/> √ 静态/动态图片一键转换<br/> √ 文字、图片编辑在一个界面完成<br/> √ 编辑结果可直接复制粘贴至各平台<br/><br/> <b>我们不需要：</b><br/><br/> </span> <span style="color:#868585;font-family:SourceHanSerifSC-Regular;"> × 单张重复的截图操作<br/> × 人工设定GIF起止时间<br/> × 频繁切换图文编辑软件<br/> × 在“另存为”和“上传”之间反复横跳<br/><br/> </span> <span style="color:#3091bb;font-family:SourceHanSerifSC-Regular;"> <b>提高效率，抢占流量，获得先机，从剪刀兔开始！</b><br/><br/> <br/> </span> <a href="https://desk.editool.cn/" target="_blank"> <button class="homeBtn"> 立即体验 </button> </a>
           </div>
         
       </div>
