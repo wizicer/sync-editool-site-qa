@@ -63,11 +63,6 @@
   </url>
   
   <url>
-    <loc>https://bunny.editool.cn/docs/detail/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bunny.editool.cn/docs/detail/sec3/sec3_4/</loc>
     <lastmod>2020-01-30T00:38:25+09:00</lastmod>
   </url>
@@ -79,6 +74,11 @@
   
   <url>
     <loc>https://bunny.editool.cn/docs/about/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bunny.editool.cn/docs/detail/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
