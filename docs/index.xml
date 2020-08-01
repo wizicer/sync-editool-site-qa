@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>教程 on 剪刀兔</title>
-    <link>https://bunny.editool.cn/docs/</link>
+    <link>https://www.editool.cn/docs/</link>
     <description>Recent content in 教程 on 剪刀兔</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, 素图科技 版权所有</copyright>
     <lastBuildDate>Sat, 11 Jan 2020 14:09:21 +0900</lastBuildDate>
     
-        <atom:link href="https://bunny.editool.cn/docs/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.editool.cn/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>下载</title>
-        <link>https://bunny.editool.cn/docs/download/</link>
+        <link>https://www.editool.cn/docs/download/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/download/</guid>
+        <guid>https://www.editool.cn/docs/download/</guid>
         <description>windows客户端下载  剪刀兔Windows客户端
   Mac客户端下载 剪刀兔Mac安装方法</description>
       </item>
       
       <item>
         <title>安装流程</title>
-        <link>https://bunny.editool.cn/docs/install/</link>
+        <link>https://www.editool.cn/docs/install/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/install/</guid>
+        <guid>https://www.editool.cn/docs/install/</guid>
         <description>安装流程  进入剪刀兔官网 www.editool.cn ，点击左上导航栏的【下载】，进入下载页面。   Windows系统用户点击【下载剪刀兔Windows客户端】，下载剪刀兔客户端。   下载完成后，直接【打开】，或者【在文件夹中显示】后，双击应用程序。  
 
 根据步骤提示进行剪刀兔安装。  
@@ -38,10 +38,10 @@
       
       <item>
         <title>购买会员</title>
-        <link>https://bunny.editool.cn/docs/vip/</link>
+        <link>https://www.editool.cn/docs/vip/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/vip/</guid>
+        <guid>https://www.editool.cn/docs/vip/</guid>
         <description>购买会员激活码 剪刀兔有月度会员和年度会员两种选择，并提供试用会员（有效期48小时）。
 扫描对应二维码，可直接购买相应会员激活码。
 购买成功后，在登录剪刀兔时，输入激活码即可正常使用会员功能。
@@ -50,10 +50,10 @@
       
       <item>
         <title>登录与激活</title>
-        <link>https://bunny.editool.cn/docs/activation/</link>
+        <link>https://www.editool.cn/docs/activation/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/activation/</guid>
+        <guid>https://www.editool.cn/docs/activation/</guid>
         <description>会员登录及激活  双击剪刀兔桌面快捷方式/右下角任务栏剪刀兔图标，或者右键单击右下角任务栏剪刀兔图标，选择【显示】，打开剪刀兔登录界面。  
 2. 登录界面如下，打开微信“扫一扫”，扫描界面二维码，登录剪刀兔。
 
@@ -70,10 +70,10 @@
       
       <item>
         <title>快速上手</title>
-        <link>https://bunny.editool.cn/docs/simple/</link>
+        <link>https://www.editool.cn/docs/simple/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/simple/</guid>
+        <guid>https://www.editool.cn/docs/simple/</guid>
         <description>下载安装及登录完成后，用户可进入剪刀兔编辑面板desk.editool.cn ，开始操作。
 一、导入视频与处理 点击【添加】，将想要处理的视频导入到列表中，选择视频处理预设后，即开始处理。
 处理完成后，我们点击【编辑】按钮，即进入到编辑页面。
@@ -95,19 +95,19 @@
       
       <item>
         <title>详细教程</title>
-        <link>https://bunny.editool.cn/docs/detail/</link>
+        <link>https://www.editool.cn/docs/detail/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/detail/</guid>
+        <guid>https://www.editool.cn/docs/detail/</guid>
         <description></description>
       </item>
       
       <item>
         <title>关于</title>
-        <link>https://bunny.editool.cn/docs/about/</link>
+        <link>https://www.editool.cn/docs/about/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/about/</guid>
+        <guid>https://www.editool.cn/docs/about/</guid>
         <description>素图科技 “剪刀兔-视频自动转GIF图文编辑器”由上海素图科技有限公司开发。
 素图科技位于同济大学科技园，属于上海市大学生科技创业基金会同济分基金支持企业。创始人团队有来自同济大学、上海交大、南开大学等校的硕博士生，依托高校科研实力，主要进行区块链、人工智能等领域的底层平台和应用案例开发。
 地址：上海市杨浦区中山北二路1121号同济科技大厦二楼。
@@ -116,28 +116,28 @@
       
       <item>
         <title></title>
-        <link>https://bunny.editool.cn/docs/activation/</link>
+        <link>https://www.editool.cn/docs/activation/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/activation/</guid>
+        <guid>https://www.editool.cn/docs/activation/</guid>
         <description></description>
       </item>
       
       <item>
         <title></title>
-        <link>https://bunny.editool.cn/docs/install/</link>
+        <link>https://www.editool.cn/docs/install/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/install/</guid>
+        <guid>https://www.editool.cn/docs/install/</guid>
         <description></description>
       </item>
       
       <item>
         <title></title>
-        <link>https://bunny.editool.cn/docs/simple/</link>
+        <link>https://www.editool.cn/docs/simple/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/simple/</guid>
+        <guid>https://www.editool.cn/docs/simple/</guid>
         <description></description>
       </item>
       

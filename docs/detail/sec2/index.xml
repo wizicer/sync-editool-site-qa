@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>导入视频与处理 on 剪刀兔</title>
-    <link>https://bunny.editool.cn/docs/detail/sec2/</link>
+    <link>https://www.editool.cn/docs/detail/sec2/</link>
     <description>Recent content in 导入视频与处理 on 剪刀兔</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, 素图科技 版权所有</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
     
-        <atom:link href="https://bunny.editool.cn/docs/detail/sec2/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.editool.cn/docs/detail/sec2/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>支持的视频及字幕格式</title>
-        <link>https://bunny.editool.cn/docs/detail/sec2/sec2_1/</link>
+        <link>https://www.editool.cn/docs/detail/sec2/sec2_1/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/detail/sec2/sec2_1/</guid>
+        <guid>https://www.editool.cn/docs/detail/sec2/sec2_1/</guid>
         <description>(1) 支持的视频格式
 已经支持：mp4、flv、avi、wmv、mov、webm、mpeg、m4v、mpg
 暂不支持：
@@ -31,56 +31,56 @@ srt、vtt</description>
       
       <item>
         <title>导入单个视频</title>
-        <link>https://bunny.editool.cn/docs/detail/sec2/sec2_2/</link>
+        <link>https://www.editool.cn/docs/detail/sec2/sec2_2/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/detail/sec2/sec2_2/</guid>
+        <guid>https://www.editool.cn/docs/detail/sec2/sec2_2/</guid>
         <description>点击“+”或者“添加”按钮，选择视频，打开。</description>
       </item>
       
       <item>
         <title>导入多个视频</title>
-        <link>https://bunny.editool.cn/docs/detail/sec2/sec2_3/</link>
+        <link>https://www.editool.cn/docs/detail/sec2/sec2_3/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/detail/sec2/sec2_3/</guid>
+        <guid>https://www.editool.cn/docs/detail/sec2/sec2_3/</guid>
         <description>点击“+”或者“添加”按钮，同时选中多个视频，打开。
 单次同时导入视频数量：不多于100</description>
       </item>
       
       <item>
         <title>添加单个字幕</title>
-        <link>https://bunny.editool.cn/docs/detail/sec2/sec2_4/</link>
+        <link>https://www.editool.cn/docs/detail/sec2/sec2_4/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/detail/sec2/sec2_4/</guid>
+        <guid>https://www.editool.cn/docs/detail/sec2/sec2_4/</guid>
         <description>点击“添加字幕”按钮，导入对应字幕文件，字幕文件标题和视频文件标题不要求一致。</description>
       </item>
       
       <item>
         <title>同时导入单个视频及字幕</title>
-        <link>https://bunny.editool.cn/docs/detail/sec2/sec2_5/</link>
+        <link>https://www.editool.cn/docs/detail/sec2/sec2_5/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/detail/sec2/sec2_5/</guid>
+        <guid>https://www.editool.cn/docs/detail/sec2/sec2_5/</guid>
         <description>在导入时同时选择一个视频文件和一个字幕文件，系统自动匹配名称相同的视频文件和字幕文件，字幕文件标题和视频文件标题要求一致，否则无法匹配。</description>
       </item>
       
       <item>
         <title>同时导入多个视频及字幕</title>
-        <link>https://bunny.editool.cn/docs/detail/sec2/sec2_6/</link>
+        <link>https://www.editool.cn/docs/detail/sec2/sec2_6/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/detail/sec2/sec2_6/</guid>
+        <guid>https://www.editool.cn/docs/detail/sec2/sec2_6/</guid>
         <description>在导入时同时选择多个视频文件和多个字幕文件，系统自动匹配名称相同的视频文件和字幕文件，字幕文件标题和视频文件标题要求一致，否则无法匹配。</description>
       </item>
       
       <item>
         <title>视频转换预设选择</title>
-        <link>https://bunny.editool.cn/docs/detail/sec2/sec2_7/</link>
+        <link>https://www.editool.cn/docs/detail/sec2/sec2_7/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/detail/sec2/sec2_7/</guid>
+        <guid>https://www.editool.cn/docs/detail/sec2/sec2_7/</guid>
         <description>导入视频（和字幕）后，选中需要处理的视频，选择视频转换预设，开始转换。
 五种视频预设概念：
 (1) PPT：重点提取视频中的PPT画面。适用于网课、发布会等以播放PPT为主要内容的视频。
@@ -92,39 +92,39 @@ srt、vtt</description>
       
       <item>
         <title>单个视频处理</title>
-        <link>https://bunny.editool.cn/docs/detail/sec2/sec2_8/</link>
+        <link>https://www.editool.cn/docs/detail/sec2/sec2_8/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/detail/sec2/sec2_8/</guid>
+        <guid>https://www.editool.cn/docs/detail/sec2/sec2_8/</guid>
         <description>（1）选中一个视频，根据视频类型和自身需求选择视频预设类型，点击“开始”按钮进行处理。处理过程中，进度条显示处理进度，客户端图标也可以查看处理进度，且视频处理完成后，客户端会提示“‘视频名称’已处理完成”。
 （2）视频处理过程中不能暂停处理和取消处理。</description>
       </item>
       
       <item>
         <title>批量处理视频列表</title>
-        <link>https://bunny.editool.cn/docs/detail/sec2/sec2_9/</link>
+        <link>https://www.editool.cn/docs/detail/sec2/sec2_9/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/detail/sec2/sec2_9/</guid>
+        <guid>https://www.editool.cn/docs/detail/sec2/sec2_9/</guid>
         <description>(1) 分别修改视频的视频预设选项，①点击视频文件名称前的多选框或者②按住“Ctrl”键，鼠标左键选中多个需要处理的视频，点击“开始”按钮，批量处理。
 (2) 同时处理数量不多于：100个</description>
       </item>
       
       <item>
         <title>重新处理视频列表</title>
-        <link>https://bunny.editool.cn/docs/detail/sec2/sec2_10/</link>
+        <link>https://www.editool.cn/docs/detail/sec2/sec2_10/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/detail/sec2/sec2_10/</guid>
+        <guid>https://www.editool.cn/docs/detail/sec2/sec2_10/</guid>
         <description>视频处理完成后，不能重新处理，可再上传相同文件进行重新处理。</description>
       </item>
       
       <item>
         <title>删除视频列表</title>
-        <link>https://bunny.editool.cn/docs/detail/sec2/sec2_11/</link>
+        <link>https://www.editool.cn/docs/detail/sec2/sec2_11/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/detail/sec2/sec2_11/</guid>
+        <guid>https://www.editool.cn/docs/detail/sec2/sec2_11/</guid>
         <description>（1）删除单个文件，点击“删除项目”按钮进行删除。
 (2) 删除多个文件，①点击视频文件名称前的多选框或者②按住“Ctrl”键，鼠标左键选中需要删除的文件，点击“删除”按钮，即可批量删除。
 (3) 删除视频列表文件，会同时删除本地已处理的文件。</description>
@@ -132,10 +132,10 @@ srt、vtt</description>
       
       <item>
         <title>进入编辑页面</title>
-        <link>https://bunny.editool.cn/docs/detail/sec2/sec2_12/</link>
+        <link>https://www.editool.cn/docs/detail/sec2/sec2_12/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/detail/sec2/sec2_12/</guid>
+        <guid>https://www.editool.cn/docs/detail/sec2/sec2_12/</guid>
         <description>点击“进入项目”按钮，即可进入编辑页面。</description>
       </item>
       
