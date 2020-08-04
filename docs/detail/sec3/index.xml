@@ -15,18 +15,6 @@
     
       
       <item>
-        <title>合并拆分段落</title>
-        <link>https://www.editool.cn/docs/detail/sec3/sec3_1/</link>
-        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
-        
-        <guid>https://www.editool.cn/docs/detail/sec3/sec3_1/</guid>
-        <description>(1)段落合并要求：段落间时间相邻且位置相邻，才能合并。
-(2)常见的不能合并的情况：
- 如果两个段落中间有已删除的段落，不能合并； 如果拖动段落，改变了段落原本位置，导致段落时间不相邻，则不能进行合并； 文本段落不支持一键合并。
-  </description>
-      </item>
-      
-      <item>
         <title>删除/恢复段落</title>
         <link>https://www.editool.cn/docs/detail/sec3/sec3_2/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
