@@ -15,17 +15,6 @@
     
       
       <item>
-        <title>下载客户端</title>
-        <link>https://www.editool.cn/docs/download/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://www.editool.cn/docs/download/</guid>
-        <description>Win10客户端下载  Win10系统客户端下载
-  Mac客户端下载 Mac系统客户端安装方法
-   版本更新记录 2020年7月31日：版本0.1.1370.21320</description>
-      </item>
-      
-      <item>
         <title>产品简介</title>
         <link>https://www.editool.cn/docs/production/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -34,6 +23,17 @@
         <description>剪刀兔是什么？ 剪刀兔是一款可以实现视频自动转换成图/文/GIF的全媒体编辑器。
 通过自主研发的人工智能视频流图像识别算法，对连续视频流进行场景识别，从而实现媒体形式的自动转换。
 主要功能    主要功能     视频列表可上传视频数量为100条   可批量上传视频及字幕   可批量处理视频及字幕   可自由使用“默认、PPT、图片轮转、定点拍摄、手持拍摄”五种视频处理预设进行转换   可使用拆分/合并段落、删除/恢复段落、挑选主图、GIF转换、编辑文字、快捷回放等所有编辑功能   可在发布页复制编辑好的内容，粘贴至其他平台，进行发布   转出图片不压缩画质，可最大尺寸保存   一键转换为GIF，无时长、帧数限制，不存在删减帧现象，画面流畅    </description>
+      </item>
+      
+      <item>
+        <title>下载客户端</title>
+        <link>https://www.editool.cn/docs/download/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://www.editool.cn/docs/download/</guid>
+        <description>Win10客户端下载  Win10系统客户端下载
+  Mac客户端下载 Mac系统客户端安装方法
+   版本更新记录 2020年7月31日：版本0.1.1370.21320</description>
       </item>
       
       <item>
