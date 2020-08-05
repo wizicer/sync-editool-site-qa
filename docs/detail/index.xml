@@ -83,6 +83,24 @@ srt、vtt
 发布  编辑完成后，点击左侧菜单栏【发布】按钮，在发布页面选中需要的内容，复制，粘贴到其他想要上传图文的平台编辑页面，进行发布 发布页面只保留5分钟，若超时后没有完成操作，可重新点击【发布】按钮。 操作完成后，点击【关闭】按钮。  </description>
       </item>
       
+      <item>
+        <title>常见问答</title>
+        <link>https://www.editool.cn/docs/detail/question/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://www.editool.cn/docs/detail/question/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://www.editool.cn/docs/detail/question/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.editool.cn/docs/detail/question/</guid>
+        <description></description>
+      </item>
+      
     
   </channel>
 </rss>
