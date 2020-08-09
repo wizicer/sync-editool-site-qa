@@ -43,10 +43,7 @@
         
         <guid>https://www.editool.cn/docs/detail/sec2/</guid>
         <description>支持的视频/字幕格式   支持的视频格式
-已经支持：mp4、flv、avi、wmv、mov、webm、mpeg、m4v、mpg
-暂不支持：
-3gp、ts、vob、mkv、rm
-dat、swf、lavf、cpk、asf、dirac
+mp4、flv、avi、wmv、mov、webm、mpeg、m4v、mpg
   支持的字幕格式
 srt、vtt
   导入单个视频文件 点击【+】或者【添加】按钮，选择视频，打开。
