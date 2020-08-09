@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.editool.cn/docs/production/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.editool.cn/docs/detail/sec1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
@@ -92,10 +87,6 @@
   
   <url>
     <loc>https://www.editool.cn/docs/install/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.editool.cn/docs/production/</loc>
   </url>
   
   <url>
