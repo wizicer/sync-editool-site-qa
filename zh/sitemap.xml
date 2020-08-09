@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.editool.cn/docs/detail/sec1/</loc>
+    <loc>https://www.editool.cn/docs/download/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.editool.cn/docs/download/</loc>
+    <loc>https://www.editool.cn/docs/detail/sec1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -18,22 +18,22 @@
   </url>
   
   <url>
-    <loc>https://www.editool.cn/docs/detail/sec3/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.editool.cn/docs/detail/sec4/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.editool.cn/docs/vip/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
+    <loc>https://www.editool.cn/docs/detail/sec3/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.editool.cn/docs/simple/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.editool.cn/docs/detail/sec4/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -69,10 +69,6 @@
   
   <url>
     <loc>https://www.editool.cn/docs/detail/sec4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.editool.cn/docs/simple/</loc>
   </url>
   
 </urlset>

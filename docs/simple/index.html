@@ -968,8 +968,7 @@
 <link rel="stylesheet" href="/css/main.min.css">
 
 
-    <link rel="alternate" type="application/rss&#43;xml" title="RSS" href="https://www.editool.cn/docs/simple/index.xml">
-<meta name="description" content="" />
+    <meta name="description" content="" />
 <meta name="keywords" content="">
 <meta name="created" content="2020-02-28T10:08:56&#43;0900">
 <meta name="modified" content="2020-02-28T10:08:56&#43;0900">
@@ -978,7 +977,7 @@
 <meta property="og:site_name" content="剪刀兔">
 <meta property="og:title" content="快速上手">
 <meta property="og:url" content="https://www.editool.cn/docs/simple/">
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 
 <meta name="generator" content="Hugo 0.70.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
@@ -1007,8 +1006,11 @@
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
+    "headline": "快速上手",
+    "datePublished": "2020-02-28T10:08:56+09:00",
+    "dateModified": "2020-02-28T10:08:56+09:00",
     "url" : "https://www.editool.cn/docs/simple/",
-    "name": "快速上手",
+    "description": "下载安装及登录完成后，用户可进入剪刀兔编辑面板desk.editool.cn ，开始操作。 一、导入视频与处理 点击【添加】，将想要处理的视频导入到列表中，选择视频处理预设后，即开始处理。  处理完成后，点击【开始编辑】按钮，即进入到编辑页面。  二、图文编辑 现在大家可以看到，视频已经自动被分成了许多个“段落”。 如果此时点击【预览】， …",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "https://www.editool.cn/"
@@ -1219,29 +1221,6 @@
   <li class="">
     <a href="https://www.editool.cn/docs/about/"
       class="menu__title ">关于我们</a>
-  </li>
-  
-
-    
-      
-  
-  
-  
-  
-  
-  
-  
-
-  
-  
-  
-  
-  
-  
-  
-  <li class="active">
-    <a href="https://www.editool.cn/docs/simple/"
-      class="menu__title active"></a>
   </li>
   
 
@@ -1683,7 +1662,7 @@ width="22" height="22"
 </script>
 
         
-  <div class="top">
+ <div class="top">
   <div class="header__wrapper bgcolor__header">
     <div class="divider">
       <div class="lmr">
@@ -1736,11 +1715,10 @@ width="22" height="22"
 </div>
 
         
-  
   <div class="mid">
   <div class="divider">
-
-    <nav id="list-menu" class="l" data-dir="ltr">
+    
+    <nav id="single-menu" class="l" data-dir="ltr">
       
         <div class="menu">
   <h6 class="menu__label">
@@ -1911,55 +1889,10 @@ width="22" height="22"
   
 
     
-      
-  
-  
-  
-  
-  
-  
-  
-
-  
-  
-  
-  
-  
-  
-  
-  <li class="active">
-    <a href="https://www.editool.cn/docs/simple/"
-      class="menu__title active"></a>
-  </li>
-  
-
-    
   </ul>
 </div>
 
 
-
-<script>
-  var menuTitle = document.querySelectorAll('.menu__title');
-  var modal = document.getElementById("myModal");
-  var drawer = document.getElementById('myDrawer');
-
-  var closeDrawer = function () {
-    setTimeout(function () {
-      modal.style.opacity = 0;
-      drawer.style.left = '-100%';
-      modal.style.left = '-100%';
-    }, 250);
-  }
-
-  menuTitle ? 
-  menuTitle.forEach(function(elem) {
-    elem.onclick = function() {
-      closeDrawer();
-      localStorage.setItem('isDrawerOpen', 'false');
-    }
-  }) : null;
-</script>
       
     </nav>
 
@@ -2039,53 +1972,274 @@ width="22" height="22"
   </article>
 </div>
       
+<div class="grow"></div>
+<nav class="pagination-single">
+  
+    
+      <a href="https://www.editool.cn/docs/vip/" title="购买会员" class="pagination-single__left">
+        <div class="pagination-single__icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M19 11H7.83l4.88-4.88c.39-.39.39-1.03 0-1.42-.39-.39-1.02-.39-1.41 0l-6.59 6.59c-.39.39-.39 1.02 0 1.41l6.59 6.59c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L7.83 13H19c.55 0 1-.45 1-1s-.45-1-1-1z"/></svg>
+        </div>
+        <div class="pagination-single__right-title">购买会员</div>
+      </a>
+    
+    <div class="grow"></div>
+    
+  
+</nav>
+
+
       
-
     </article>
-
+    
     <section id="list-side" class="r" data-dir="ltr">
+      
+        <div class="toc">
+  <h6 class="toc__label"></h6>
+  <div class="toc__body">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#一导入视频与处理">一、导入视频与处理</a></li>
+    <li><a href="#二图文编辑">二、图文编辑</a>
+      <ul>
+        <li><a href="#1合并拆分段落">1、合并/拆分段落</a></li>
+        <li><a href="#2删除恢复段落">2、删除/恢复段落</a></li>
+        <li><a href="#3挑选主图">3、挑选主图</a></li>
+        <li><a href="#4转gif">4、转GIF</a></li>
+        <li><a href="#5监视器回放">5、监视器回放</a></li>
+        <li><a href="#6保存预览">6、保存/预览</a></li>
+        <li><a href="#7发布">7、发布</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </div>
+</div>
+      
     </section>
 
   </div>
 </div>
 
+
+
+
+
+<script defer src="/js/helper/getParents.min.js"></script>
+
+<script defer src="/js/helper/closest.min.js"></script>
+
+<script defer src="/js/helper/prev.min.js"></script>
+
+<script defer src="/js/helper/prop.min.js"></script>
+
+<script defer src="/js/helper/fadeinout.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    'use strict';
+    
+    
+    var tables = document.querySelectorAll('.single__contents > table');
+    for (let i = 0; i < tables.length; i++) {
+      var table = tables[i];
+      var wrapper = document.createElement('div');
+      wrapper.className = 'table-wrapper';
+      table.parentElement.replaceChild(wrapper, table);
+      wrapper.appendChild(table);
+    }
+    
+
+    
+    
+    
+    var lib = JSON.parse("null");
+
+    if (lib && lib.includes('mermaid')) {
+      var themeVariant = localStorage.getItem('theme') || 'light';
+
+      if (themeVariant === "dark") {
+        mermaid.initialize({ theme: 'dark' });
+      } else {
+        mermaid.initialize({ theme: 'default' });
+      }
+      
+      var mermaids = [];
+      [].push.apply(mermaids, document.getElementsByClassName('language-mermaid'));
+      mermaids.forEach(function(elem) {
+        var elemParentNode = elem.parentNode;
+
+        if (elemParentNode !== document.body) {
+          elemParentNode.parentNode.insertBefore(elem, elemParentNode);
+          elemParentNode.parentNode.removeChild(elemParentNode);
+        }
+
+        var newElemWrapper = document.createElement('div');
+        newElemWrapper.classList.add('mermaid');
+        newElemWrapper.innerHTML = elem.innerHTML;
+        elem.replaceWith(newElemWrapper);
+      });
+    }
+    
+    
+
+    
+    if (lib && lib.includes('katex')) {
+      var mathElements = document.getElementsByClassName('math');
+      var options = {
+        delimiters: [
+          { left: "$$", right: "$$", display: true },
+          { left: "\\[", right: "\\]", display: true },
+          { left: "$", right: "$", display: false },
+          { left: "\\(", right: "\\)", display: false }
+        ],
+      };
+
+      renderMathInElement(document.querySelector('.single__contents'), options);
+    }
+    
+
+
+    
+    if (lib && lib.includes('flowchartjs')) {
+      
+      var options = JSON.parse("{\"arrow-end\":\"block\",\"element-color\":\"black\",\"fill\":\"white\",\"flowstate\":{\"approved\":{\"fill\":\"#58C4A3\",\"font-size\":12,\"no-text\":\"n/a\",\"yes-text\":\"APPROVED\"},\"current\":{\"fill\":\"yellow\",\"font-color\":\"red\",\"font-weight\":\"bold\"},\"future\":{\"fill\":\"#FFFF99\"},\"invalid\":{\"fill\":\"#444444\"},\"past\":{\"fill\":\"#CCCCCC\",\"font-size\":12},\"rejected\":{\"fill\":\"#C45879\",\"font-size\":12,\"no-text\":\"REJECTED\",\"yes-text\":\"n/a\"},\"request\":{\"fill\":\"blue\"}},\"font-color\":\"black\",\"font-size\":14,\"line-color\":\"black\",\"line-length\":50,\"line-width\":3,\"no-text\":\"no\",\"scale\":1,\"symbols\":{\"end\":{\"class\":\"end-element\"},\"start\":{\"element-color\":\"green\",\"fill\":\"yellow\",\"font-color\":\"red\"}},\"text-margin\":10,\"x\":0,\"y\":0,\"yes-text\":\"yes\"}");
+      var jsonContent = null;
+
+      var flowchartPrefix = "language-flowchart";
+      var index = 0;
+      Array.prototype.forEach.call(document.querySelectorAll("[class^=" + flowchartPrefix + "]"), function(x){
+          x.style.display = 'none'
+          x.parentNode.style.backgroundColor = "transparent"
+          jsonContent = x.innerText;
+
+          var node0 = document.createElement('div');
+          node0.id = 'flowchart' + index;
+          x.parentNode.insertBefore(node0, x);
+
+          var diagram = flowchart.parse(jsonContent);
+          diagram.drawSVG("flowchart"+index, options);
+
+          index +=1;
+      });      
+    }
+    
+
+
+    
+    if (lib && lib.includes('chart')) {
+      var borderColor = "#666";
+      var bgColor = "#ddd";
+      var borderWidth = 2;
+
+      Chart.defaults.global.elements.rectangle.borderWidth = borderWidth;
+      Chart.defaults.global.elements.rectangle.borderColor = borderColor;
+      Chart.defaults.global.elements.rectangle.backgroundColor = bgColor;
+
+      Chart.defaults.global.elements.line.borderWidth = borderWidth;
+      Chart.defaults.global.elements.line.borderColor = borderColor;
+      Chart.defaults.global.elements.line.backgroundColor = bgColor;
+
+      Chart.defaults.global.elements.point.borderWidth = borderWidth;
+      Chart.defaults.global.elements.point.borderColor = borderColor;
+      Chart.defaults.global.elements.point.backgroundColor = bgColor;
+
+      var chartPrefix = "language-chart";
+      var index = 0;
+      var jsonContent = null;
+
+      Array.prototype.forEach.call(document.querySelectorAll("[class^=" + chartPrefix + "]"), function (x) {
+        x.style.display = 'none'
+        x.parentNode.style.backgroundColor = "transparent"
+        jsonContent = x.innerText;
+        var node0 = document.createElement('canvas');
+        var source = null;
+        node0.height = 200;
+        node0.style.height = 200;
+        node0.id = 'myChart' + index;
+        source = JSON.parse(jsonContent);
+        x.parentNode.insertBefore(node0, x);
+        var ctx = document.getElementById('myChart' + index).getContext('2d');
+        var myChart = new Chart(ctx, source);
+        index += 1;
+      });            
+    }
+    
+
+
+    
+    if (lib && lib.includes('viz')) {
+      var vizPrefix = "language-viz-";
+      Array.prototype.forEach.call(document.querySelectorAll("[class^=" + vizPrefix + "]"), function (x) {
+        x.style.display = 'none'
+        x.parentNode.style.backgroundColor = "transparent"
+        var engine;
+        x.getAttribute("class").split(" ").forEach(function (cls) {
+          if (cls.startsWith(vizPrefix)) {
+            engine = cls.substr(vizPrefix.length);
+          }
+        });
+        var viz = new Viz();
+        viz.renderSVGElement(x.innerText, { engine: engine })
+          .then(function (element) {
+            element.style.width = "100%";
+            x.parentNode.insertBefore(element, x);
+          })
+      });
+    }
+    
+    
+  });
+</script>
 <script>
   var listSide = document.getElementById('list-side');
   var listMain = document.getElementById('list-main');
-  var listMenu = document.getElementById('list-menu');
-  
+  var singleMenu = document.getElementById('single-menu');
+
   enquire.register("screen and (max-width:1280px)", {
     match: function () {
       listSide.className = 'r';
       listMain.className = 'm';
-      listMenu.className = 'l';
+      singleMenu.className = 'l';
     },
     unmatch: function () {
       listSide.className = 'r';
       listMain.className = 'm';
-      listMenu.className = 'l';
+      singleMenu.className = 'l';
     },
   }).register("screen and (max-width:960px)", {
     match: function () {
       listSide.className = 'hide';
       listMain.className = 'mr';
-      listMenu.className = 'l';
+      singleMenu.className = 'l';
     },
     unmatch: function () {
       listSide.className = 'r';
       listMain.className = 'm';
-      listMenu.className = 'l';
+      singleMenu.className = 'l';
     },
   }).register("screen and (max-width:600px)", {
     match: function () {
       listSide.className = 'hide';
       listMain.className = 'lmr';
-      listMenu.className = 'hide';
+      singleMenu.className = 'hide';
     },
     unmatch: function () {
       listSide.className = 'hide';
       listMain.className = 'mr';
-      listMenu.className = 'l';
+      singleMenu.className = 'l';
+      
     },
   });
 </script>
