@@ -143,10 +143,10 @@ srt、vtt
       
       <item>
         <title>常见问答</title>
-        <link>https://www.editool.cn/docs/sec4/</link>
+        <link>https://www.editool.cn/docs/faq/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://www.editool.cn/docs/sec4/</guid>
+        <guid>https://www.editool.cn/docs/faq/</guid>
         <description>常见问答  编辑页面中的监视器，无法正常播放视频？
 答：视频格式问题，不支持视频格式为avi，flv，mpeg，mpg，wmv的视频文件播放，但是不会影响视频转换及编辑。  Q:推荐用户在Win10系统，Chrome浏览器中使用剪刀兔编辑器。
 A:其他浏览器可能会出现各种使用问题，比如：Edge浏览器中预览、发布页面无文字；Opera浏览器中，进行编辑后，关闭浏览器时，不会出现提示……
@@ -160,6 +160,18 @@ Q：无法进行GIF转换操作。
 A：磁盘空间不足；网络故障。
 Q：以下情况可能会出现字幕无法显示在编辑页面。
 A：视频内容场景变化小，导致转换结果中，视频段落只有一个，字幕可能会显示不出来。</description>
+      </item>
+      
+      <item>
+        <title>关于我们</title>
+        <link>https://www.editool.cn/docs/about/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://www.editool.cn/docs/about/</guid>
+        <description>素图科技 “剪刀兔-视频自动转GIF图文编辑器”由上海素图科技有限公司开发。
+素图科技位于同济大学科技园，属于上海市大学生科技创业基金会同济分基金支持企业。创始人团队有来自同济大学、上海交大、南开大学等校的硕博士生，依托高校科研实力，主要进行区块链、人工智能等领域的底层平台和应用案例开发。
+地址：上海市杨浦区中山北二路1121号同济科技大厦二楼。
+了解更多请访问素图科技官网：https://www.sutu.tech</description>
       </item>
       
     
