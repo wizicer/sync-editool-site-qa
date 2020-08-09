@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>https://www.editool.cn/docs/detail/sec1/</loc>
+    <loc>https://www.editool.cn/docs/tutorial/sec1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.editool.cn/docs/detail/sec2/</loc>
+    <loc>https://www.editool.cn/docs/tutorial/sec2/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -23,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://www.editool.cn/docs/detail/sec3/</loc>
+    <loc>https://www.editool.cn/docs/tutorial/sec3/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -33,7 +33,7 @@
   </url>
   
   <url>
-    <loc>https://www.editool.cn/docs/detail/</loc>
+    <loc>https://www.editool.cn/docs/tutorial/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -65,6 +65,10 @@
   <url>
     <loc>https://www.editool.cn/docs/</loc>
     <lastmod>2020-01-11T14:09:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.editool.cn/docs/tutorial/</loc>
   </url>
   
 </urlset>

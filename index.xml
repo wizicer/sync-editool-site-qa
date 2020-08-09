@@ -32,10 +32,10 @@
       
       <item>
         <title>功能概览</title>
-        <link>https://www.editool.cn/docs/detail/sec1/</link>
+        <link>https://www.editool.cn/docs/tutorial/sec1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://www.editool.cn/docs/detail/sec1/</guid>
+        <guid>https://www.editool.cn/docs/tutorial/sec1/</guid>
         <description>剪刀兔是一款基于人工智能技术，实现【视频自动转换成图/文/GIF】的媒体编辑器。
 主要功能概况  可将视频 单个/批量 转换成图文段落形式 提供多种视频处理预设； 图片段落可一键转成GIF； 支持导入字幕并转换成文字段落，并自动匹配至相应图片下方； 提供细节编辑功能（拆分/合并、删除/恢复、挑选主图、GIF转换、编辑文字、快捷回放等） 支持快捷发布，直接将内容复制粘贴至其他平台。 视频处理列表上限为100条；  视频列表页面 本页面可导入视频及字幕，并选择预设进行处理。处理完成后，视频将自动转换成图文的格式。
 
@@ -54,10 +54,10 @@
       
       <item>
         <title>导入视频与处理</title>
-        <link>https://www.editool.cn/docs/detail/sec2/</link>
+        <link>https://www.editool.cn/docs/tutorial/sec2/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://www.editool.cn/docs/detail/sec2/</guid>
+        <guid>https://www.editool.cn/docs/tutorial/sec2/</guid>
         <description>支持的视频/字幕格式   支持的视频格式
 mp4、flv、avi、wmv、mov、webm、mpeg、m4v、mpg
   支持的字幕格式
@@ -98,10 +98,10 @@ srt、vtt
       
       <item>
         <title>图文编辑</title>
-        <link>https://www.editool.cn/docs/detail/sec3/</link>
+        <link>https://www.editool.cn/docs/tutorial/sec3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://www.editool.cn/docs/detail/sec3/</guid>
+        <guid>https://www.editool.cn/docs/tutorial/sec3/</guid>
         <description>合并/拆分段落  段落合并要求：段落间时间相邻且位置相邻，才能合并。 常见的不能合并的情况：   如果两个段落中间有已删除的段落，不能合并； 如果拖动段落，改变了段落原本位置，导致段落时间不相邻，则不能进行合并； 文本段落不支持一键合并。  删除/恢复段落  删除/恢复视频段落
 点击【删除】按钮删除不需要的段落，删除后，该段落将不会显示在最终预览及发布页面上；但是该段落并没有被彻底删除，在编辑页面点击该段落的“恢复”按钮，可以恢复原段落。  
 删除/恢复文本段落   有内容文本段落，按照删除/恢复视频段落的方法可删除/恢复文本段落；  
@@ -172,6 +172,15 @@ A：视频内容场景变化小，导致转换结果中，视频段落只有一�
 素图科技位于同济大学科技园，属于上海市大学生科技创业基金会同济分基金支持企业。创始人团队有来自同济大学、上海交大、南开大学等校的硕博士生，依托高校科研实力，主要进行区块链、人工智能等领域的底层平台和应用案例开发。
 地址：上海市杨浦区中山北二路1121号同济科技大厦二楼。
 了解更多请访问素图科技官网：https://www.sutu.tech</description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://www.editool.cn/docs/tutorial/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.editool.cn/docs/tutorial/</guid>
+        <description></description>
       </item>
       
     
